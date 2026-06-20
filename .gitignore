@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Keep the data folder tracked but ignore any real sensitive exports
+# data/*.csv  # Uncomment this line if you don't want to commit ticket data

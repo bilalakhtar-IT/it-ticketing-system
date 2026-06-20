@@ -1,0 +1,6 @@
+ticket_id,title,category,priority,status,assignee,created_at,updated_at,description,notes
+TKT-002,Cannot log into Microsoft 365,Account/Access,Medium,Closed,Bilal A.,2024-11-02 10:00,2024-11-02 10:45,User reports password is not accepted on Office portal after a password reset.,2024-11-02 10:45: Reset account in Azure AD. User confirmed login working.
+TKT-003,Laptop won't connect to VPN,Network,High,In Progress,Unassigned,2024-11-03 08:30,2024-11-03 08:30,Remote staff member cannot connect to GlobalProtect VPN from home network. Other devices work fine.,
+TKT-004,Excel crashing on open,Software,Medium,Open,Unassigned,2024-11-04 14:00,2024-11-04 14:00,User's Excel crashes immediately on launch. Office 365 version. Tried restarting.,
+TKT-005,New hire workstation setup,Hardware,Low,Open,Bilal A.,2024-11-05 09:00,2024-11-05 09:00,Set up Dell OptiPlex for new hire starting Monday. Install Office 365 and add to domain.,
+TKT-006,exit,Account/Access,Medium,Open,test,2026-06-19 20:49,2026-06-19 20:49,cls,
